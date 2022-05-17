@@ -35,7 +35,8 @@ Tecnologias utilizadas no projeto.
 
 ### 1 - Para acessar as abas do projeto é necessário que o usuário tenha um login cadastrado no sistema.
 
-    * pode ser realizado apartir da primeira tela, caso não tenha login, ele pode realizar seu cadastro com seus dados na mesma aba clicando em "cadastra-se".
+    * pode ser realizado apartir da primeira tela, caso não tenha login, ele pode realizar seu cadastro
+    com seus dados na mesma aba clicando em "cadastra-se".
    
     
 ![login](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post13.jpg)
