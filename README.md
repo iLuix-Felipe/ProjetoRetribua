@@ -33,44 +33,54 @@ Tecnologias utilizadas no projeto.
 
 ## Sobre o projeto:
 
-### 1 - O jogo está dividida em 4 fases, cada uma é direcionada para um dos 4 ciclos principais.
+### 1 - Para acessar as abas do projeto é necessário que o usuário tenha um login cadastrado no sistema.
 
-    * Ciclo da água
-    * Ciclo do Oxigênio
-    * Ciclo do Nitrogênio
-    * Ciclo do Carbono
+    * pode ser realizado apartir da primeira tela, caso não tenha login, ele pode realizar seu cadastro com seus dados na mesma aba clicando em "cadastra-se".
+   
     
-    ### Fase 1 (Inicio)
-    
+![login](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post13.jpg)
 
-![Inicio Fase 1](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post1.png)
+### 2 - Com login bem sucessido o usuário pode usufruir das telas do sistema retribua.
+  
+  - Tela inicial:
 
-### 2 - Ultrapasse diversos desafios relacionados ao ciclo da fase pra se divertir no jogo.
+![home1](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post1.png)
+![home2](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post2.png)
+![home3](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post3.png)
 
+### 3 - Nas próprias páginas tem uma aba que explica um pouco o intuito do projeto.
 
-![Atravessando o mar](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post2.png)
-![água poluida](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post5.png)
+  - Sobre o Projeto:
 
-### 3 - Recolha chaves pelo caminho para conseguir passar de fase.
+![sobreProjeto1](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post4.png)
+![sobreProjeto2](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post5.png)
+![sobreProjeto3](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post6.png)
+![sobreProjeto3](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post7.png)
 
+### 4 - o usuário tem acesso a aba de administradores do projeto e consegue tirar dúvidas e se comunicar por redes sociais com os próprios!
 
-![keys](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post4.png)
+   - Idealizadores
 
-### 4 - Durante as fases, resolva o nosso sistema de quiz relacionado a temática da fase!
+!![idealizadores](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post8.png)
 
+### 5 - O usuário também tem acesso ao seu perfil e pode observar sua colocação no ranking e suas doações realizadas!!
 
-![Quiz](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post3.png)
+ - o botão doe aqui fixado em todas as páginas - cadastra as doações dos usuários
+ - O usuário pode trocar sua foto de perfil que fica exposta para outros usuários
+ - temos dois tipos de perfis de usuários (comuns e administradores)
 
-### 5 - Utilize de habilidades especificas para conseguir fugir de alguns perigos!!
+!![perfil](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post9.png)
 
+### 6 - Usuários administradores tem acesso a algumas informações privilegiadas e consegue ver mais dados do sistema!!
 
-![melle attack](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post6.png)
+ - Adicionar novos usuários
+ - ver todas as doações
+ - ver todos os usuários
+ - além de remover ambas propriedades
 
-### 6 - Chegue até checkpoints para salvar seu progresso na fase!!
-
-
-![Double jump](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post7.png)
-
+![home1](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post10.png)
+![home2](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post11.png)
+![home3](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/post12.png)
 
 
   ## Versão do Projeto
