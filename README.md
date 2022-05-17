@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/logo.png)
+![Logo of the project](https://github.com/iLuix-Felipe/ProjetoRetribua/blob/main/public/logobranca.png)
 
 
 ## Projeto Retribua
